@@ -4,7 +4,7 @@ description: "say hello with GitHub Actions"
 
 inputs:
   firstGreeting:
-    description: "who would you like to greet in the console"
+    description: "who would you like to see greeting message in the console"
     required: true
     default: "Hubot"
 
